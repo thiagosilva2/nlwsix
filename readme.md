@@ -1,5 +1,5 @@
-Baixando o meu projeto do Github (conseguir baixar),
+Nesse projeto, eu pude aprender as tecnologias voltadas para o front-end, html, css e javascript. Aprendi a criar um website do zero.
+Com a maratona NLW da RocketSeat - Trilha Origin com o Mayk Brito.
 
-Vou fazer uma mudança no index, e enviar para o github de novo.
+URL do projeto: https://thiagosilva2.github.io/nlwsix/
 
-lembrando que o readme.md (eu criei depois, e vou está enviando junto)
